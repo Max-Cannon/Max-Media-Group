@@ -789,6 +789,9 @@ blockquote {
   font-size: 20px;
   text-align: center;
 }
+#counters1-i P {
+  font-size: 20px;
+}
 #header9-r .elements-content {
   padding-bottom: 50px;
 }

@@ -179,7 +179,11 @@
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
         },
         {
-          "_styles": {},
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          },
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -205,16 +209,16 @@
             "showText": true,
             "showSubtitles": true
           },
-          "title": "View Our Statistic",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aliquam fuga aspernatur quaerat nobis deserunt.",
+          "title": "Statistically Speaking",
+          "text": "Are you using the right statistical metrics to measure and demonstrate the success of your inbound marketing efforts?",
           "subtitle1": "Views",
           "number1": "69809",
-          "subtitle2": "Images",
+          "subtitle2": "Campaigns",
           "number2": "3726",
           "subtitle3": "Sites",
           "number3": "341",
           "subtitle4": "Projects",
-          "number4": "57"
+          "number4": "106"
         },
         {
           "_styles": {
@@ -990,7 +994,7 @@
           "title": "are you ready <br>to launch a new:<br>",
           "text": "<b>Let's be honest...you are here for the very same reason we exist as a company...PROFIT</b><br><b>You can be assured that all activities you employ us to perform will be PROFIT-DRIVEN</b><br><b>Max Media Group team members are highly-skilled, extremely knowledgeable &amp; honest</b><br><b>We carefully assess each clients needs and very are transparent with our service pricing</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get a FREE Website health report</a>",
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown12.png"
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown13.png"
         }
       ]
     }
