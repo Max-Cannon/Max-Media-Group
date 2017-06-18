@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 28,
+    "uniqCompNum": 29,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/max-media-group-logo-main-250px-128x88.png",
     "noImageResize": "",
@@ -182,6 +182,9 @@
           "_styles": {
             "P": {
               "font-size": "20px"
+            },
+            "H2": {
+              "font-size": "48px"
             }
           },
           "alias": "colorm/components",
@@ -234,7 +237,7 @@
               "color": "#000"
             },
             ".mbr-section-title": {
-              "font-size": "46px"
+              "font-size": "48px"
             }
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
@@ -407,8 +410,156 @@
         },
         {
           "_styles": {
+            ".elements-content": {
+              "padding-bottom": "140px"
+            },
+            ".mbr-section-subtitle": {
+              "letter-spacing": "2px",
+              "margin-bottom": "10px",
+              "font-weight": "700"
+            },
+            ".mbr-section-title, .tab-pane": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "margin-bottom": "60px",
+              "font-size": "48px",
+              "text-align": "center"
+            },
+            ".nav-tabs": {
+              "margin-top": "90px"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-s",
+          "_params": {
+            "tabs": "6",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/max-media-group-see-bigger-picture-cinemagraph.gif",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000000",
+            "showHeader": true,
+            "showImages": true,
+            "showTitles": true
+          },
+          "title": "OUR 6-STEP WEBSITE <br>DEVELOPMENT PROCESS.",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "telescope",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "@primaryColor",
+              "newWindow": false
+            }
+          },
+          "title1": "ASSESSMENT &amp; DISCOVERY.",
+          "text1": "Every custom web development project is unique. We want to get to know your brand, understand your needs, and determine an appropriate timeline and project plan tailored to your business.",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "presentation",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "@primaryColor",
+              "newWindow": false
+            }
+          },
+          "title2": "DIGITAL STRATEGIES.",
+          "text2": "Our team of experts research, analyze, and craft strategic recommendations that will enable you to accomplish your business goals. From stakeholder interviews, to industry analysis, our recommendations are tactical and effective.",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "browser",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "@primaryColor",
+              "newWindow": false
+            }
+          },
+          "title3": "INFORMATION ARCHITECTURE / USER EXPERIENCE",
+          "text3": "Our Information Architects define the features, functionalities, structure, and user-experience of our website development projects. Every website needs a foundation, and our IA and UX teams provide the blueprint for your online business.",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "website-theme",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "@primaryColor",
+              "newWindow": false
+            }
+          },
+          "title4": "WEBSITE DESIGN MOCKUPS.",
+          "text4": "Our talented team of designers create high-end custom designs for mobile, tablet &amp; desktop to elevate brand perception and increase conversion rates. We focus on functional, yet beautiful design throughout the entire website development process.",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "tools-2",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "@primaryColor",
+              "newWindow": false
+            }
+          },
+          "title5": "CODING &amp; DEVELOPMENT.",
+          "text5": "When it’s time to develop a website, we dedicate a collaborative team of web developers to build a custom-developed solution based on the unique needs of your business and the objectives you would like to accomplish.0<br>",
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "rocket",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "title6": "QUALITY ASSURANCE &amp; LAUNCH.",
+          "text6": "Before we take your website live, we put our coding to the test through an extensive quality assurance process. With over 100 check points to review, including security, site speed, and functionality, we ensure that your website is prepared for its launch.<br><br>Once your website has launched, our team of web developers continue to find ways to improve website performance and integrate new site features and functionalities that will continue to elevate and expand your online business.<br>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header5-s\" aria-expanded=\"false\">Discovery</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header5-s\" aria-expanded=\"false\">Strategy</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header5-s\" aria-expanded=\"false\">AI/UX</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header5-s\" aria-expanded=\"false\">mOCKUPS</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header5-s\" aria-expanded=\"false\">dEVELOPMENT</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header5-s\" aria-expanded=\"true\">lAUNCH</a></li>"
+        },
+        {
+          "_styles": {
             ".card-block p": {
               "font-size": "15px"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "18px"
             }
           },
           "alias": "colorm/components",
@@ -994,7 +1145,7 @@
           "title": "are you ready <br>to launch a new:<br>",
           "text": "<b>Let's be honest...you are here for the very same reason we exist as a company...PROFIT</b><br><b>You can be assured that all activities you employ us to perform will be PROFIT-DRIVEN</b><br><b>Max Media Group team members are highly-skilled, extremely knowledgeable &amp; honest</b><br><b>We carefully assess each clients needs and very are transparent with our service pricing</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get a FREE Website health report</a>",
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown13.png"
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown2.png"
         }
       ]
     }

@@ -792,6 +792,9 @@ blockquote {
 #counters1-i P {
   font-size: 20px;
 }
+#counters1-i H2 {
+  font-size: 48px;
+}
 #header9-r .elements-content {
   padding-bottom: 50px;
 }
@@ -805,10 +808,39 @@ blockquote {
   color: #000;
 }
 #header9-r .mbr-section-title {
-  font-size: 46px;
+  font-size: 48px;
+}
+#header5-s .elements-content {
+  padding-bottom: 140px;
+}
+#header5-s .mbr-section-subtitle {
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+#header5-s .mbr-section-title,
+#header5-s .tab-pane {
+  color: #fff;
+}
+#header5-s .mbr-section-title {
+  margin-bottom: 60px;
+  font-size: 48px;
+  text-align: center;
+}
+#header5-s .nav-tabs {
+  margin-top: 90px;
+}
+#header5-s P {
+  font-size: 18px;
 }
 #testimonials1-l .card-block p {
   font-size: 15px;
+}
+#testimonials1-l .mbr-section-title {
+  font-size: 48px;
+}
+#testimonials1-l .mbr-section-subtitle {
+  font-size: 18px;
 }
 #form1-g .mbr-section-subtitle {
   text-transform: uppercase;
