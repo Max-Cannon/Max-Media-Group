@@ -801,6 +801,9 @@ blockquote {
 #call6-f .call-card.active .title {
   color: #98cb00;
 }
+#testimonials1-l .card-block p {
+  font-size: 15px;
+}
 #form1-g .mbr-section-subtitle {
   text-transform: uppercase;
 }
