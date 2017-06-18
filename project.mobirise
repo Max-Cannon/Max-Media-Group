@@ -22,9 +22,9 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 22,
+    "uniqCompNum": 28,
     "versionPublish": "3.12.1",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/max-media-group-logo-main-250px-128x88.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": ""
@@ -131,7 +131,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DIGITAL MARKETING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WEB DESIGN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">BRANDED GRAPHICS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Marketing Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Marketing publications</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Contact</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Subscribe</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Location</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DIGITAL MARKETING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WEB DESIGN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">BRANDED GRAPHICS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Marketing Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Marketing Publications</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Contact</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Subscribe</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Location</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "alias": "colorm/components",
@@ -175,7 +175,7 @@
           },
           "title": "are you ready <br>to launch a new:<br>",
           "text": "<b>Let's be honest...you are here for the very same reason we exist as a company...PROFIT.</b><br><b>You can be assured that every service you employ us to perform will be PROFIT-DRIVEN.</b><br><b>Your Max Media Group team members are highly-skilled, very knowledgeable &amp; honest.</b><br><b>We carefully assess &nbsp;all your needs and will be very transparent with our service pricing.</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get a FREE Website health report</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get a FREE Website health report</a>",
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
         },
         {
@@ -218,59 +218,188 @@
         },
         {
           "_styles": {
-            ".call-card.active .mbr-section-subtitle": {
-              "color": "#98cb00"
-            },
-            ".title": {
-              "color": "#4a10ff"
+            ".elements-content": {
+              "padding-bottom": "50px"
             },
             ".mbr-section-subtitle": {
-              "color": "#4a10ff"
+              "letter-spacing": "2px",
+              "margin-bottom": "10px",
+              "font-weight": "700"
             },
-            ".call-card.active .title": {
-              "color": "#98cb00"
+            ".mbr-section-title, .tab-pane": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
             }
           },
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "call6",
-          "_anchor": "call6-f",
+          "_name": "header9",
+          "_anchor": "header9-r",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "activeColor": "#210772",
-            "themeColor": "@primaryColor",
-            "parallax": false,
+            "tabs": "3",
+            "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/09.jpg",
-            "bgColor": "#fff",
+            "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.7,
-            "overlayColor": "#fff",
+            "overlayOpacity": 0.9,
+            "overlayColor": "#ecf0f1",
             "showHeader": true,
-            "showHeaderText": true,
-            "showSubtitles": true,
-            "showTitles": true,
             "showText": true,
-            "showButtons": true
+            "showImages": true,
+            "showTitles": true
           },
-          "header": "Ready to get started?",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, fuga ut reprehenderit eum, blanditiis ab obcaecati eaque dicta enim architecto.",
-          "subtitle1": "Freelance",
-          "title1": "Mobirise builder",
-          "text1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos quaerat omnis amet accusantium accusamus quidems?",
-          "buttons1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">start here</a>",
-          "subtitle2": "Company",
-          "title2": "Free website builder",
-          "text2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos quaerat omnis amet accusantium accusamus quidems?",
-          "buttons2": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">start here</a>"
+          "title": "<br>OUR 3-STEP DIGITAL <br>MARKETING PROCESS.",
+          "text": "Our digital marketing strategy is built on the foundation of driving measurable results. We take an omni-channel approach to online marketing with a focus on increasing conversions, repeat traffic and generating greater brand loyalty online. Increase brand awareness by harnessing the right digital marketing techniques for your business.<br><br>Our online marketing strategies are tailored to the unique needs of your audience and brand objectives. With the right digital marketing approach, you’ll see improved conversion rate, better user engagement, and an overall boost in ROI.<br>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-r\" aria-expanded=\"false\">develop strategy</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-r\" aria-expanded=\"false\">Drive Traffic</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-r\" aria-expanded=\"true\">Convert &amp; Retain</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-r\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-r\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-r\">Beautiful</a></li>",
+          "media11": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/max-media-group-develop-online-marketing-strategy-1238x1202.png",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "Max Media Group Develop Online Marketing Stratgies",
+              "title": "Web Marketing Strategies Development",
+              "linkInNewWindow": false
+            }
+          },
+          "media21": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "puzzle-piece",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "@primaryColor",
+              "newWindow": false
+            }
+          },
+          "title1": "DEVELOP ONLINE SUCCESS STRATEGY.",
+          "text1": "As a successful marketing agency, we know that the first step to a strong ROI is an online marketing strategy. Our senior marketing strategists build a thorough understanding of your business by immersing themselves in your brand, industry, and competitive landscape. This research is used to outline a clear set of guidelines and recommendations for digital growth.",
+          "media12": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/max-media-group-drive-quality-lead-traffic-1440x1440.png",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "Drive Quality Lead Generation Traffic",
+              "title": "Generate Quality Lead Traffic",
+              "linkInNewWindow": false
+            }
+          },
+          "media22": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "dashboard",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "@primaryColor",
+              "newWindow": false
+            }
+          },
+          "title2": "DRIVE HIGH QUALITY TRAFFIC.",
+          "text2": "After outlining a strategy, our expert marketing team begins driving inbound traffic to your company's website through various marketing channels. By targeting users that have searched for a service you offer, we can drive traffic that will be more likely to engage with your website, take a desired action, become customers, and ultimately boost your ROI.",
+          "media13": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/max-media-group-lead-conversion-client-retention-1440x1440.png",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "Max Media Group Converting Leads and Retaining Clients",
+              "title": "Lead Conversion and Client Retention",
+              "linkInNewWindow": false
+            }
+          },
+          "media23": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "increasing-chart2",
+              "family": "icon54",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "@primaryColor",
+              "newWindow": false
+            }
+          },
+          "title3": "INCREASE LEAD CONVERSIONS &amp; CUSTOMER RETENTION.",
+          "text3": "Potential customers will arrive to a user-friendly website that encourages engagement. Our customized website design and conversion rate optimization services are backed by marketing sciences and unique user behavior analytics focused on generating conversions. <br><br>In situations where the user doesn’t convert or you want to bring customers back for another purchase, we utilize specific tactics aimed at returning visitors back to your site with remarketing techniques and continual engagement.",
+          "media14": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nb4.png",
+              "class": "card-img-top",
+              "active": true
+            }
+          },
+          "media24": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "upload",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title4": "HOST ANYWHERE",
+          "text4": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
+          "media15": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nb5.png",
+              "class": "card-img-top",
+              "active": true
+            }
+          },
+          "media25": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "genius",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title5": "IMAGE/CONTENT SLIDER",
+          "text5": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
+          "media16": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nb6.png",
+              "class": "card-img-top",
+              "active": true
+            }
+          },
+          "media26": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title6": "CONTACT FORMS",
+          "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum."
         },
         {
           "_styles": {
@@ -290,68 +419,156 @@
             "paddingBottom": 1,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face1.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/max-media-group-female-client-160x160.jpg",
                     "class": "img-circle",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "height": 160,
                     "width": 160,
-                    "active": true
+                    "active": true,
+                    "alt": "Max Media Group Female Client Testimonial 14",
+                    "title": "Max Media Group Female Client Testimonials",
+                    "linkInNewWindow": false
                   }
                 },
-                "authorName": "John Smith",
-                "authorBio": "DEVELOPER",
-                "text": "<p>“A major turning point in the history of early philosophical science was the controversial”</p>"
+                "authorName": "Thereasa Huber",
+                "authorBio": "Fordham Digital Technologies",
+                "text": "<p>“We are very excited about our new site, online initiatives and the collaborative process with MMG.”</p>"
               },
               {
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/max-media-group-male-client-160x160.jpg",
                     "class": "img-circle",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "height": 160,
                     "width": 160,
-                    "active": true
+                    "active": true,
+                    "alt": "Max Media Group Male Client Testimonial 11",
+                    "title": "Max Media Group Male Client Testimonials",
+                    "linkInNewWindow": false
                   }
                 },
                 "authorName": "Abanoub S.",
-                "authorBio": "USER",
-                "text": "<p>“A major tturning point in the history of early philosophical science was the controversial ”</p>"
+                "authorBio": "Habibi Wholesale Foods",
+                "text": "<p>“They are very straight forward about the work they do, how long it will take and very open about costs.”</p>"
               },
               {
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/max-media-group-female-client-1-160x160.jpg",
                     "class": "img-circle",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "height": 160,
                     "width": 160,
-                    "active": true
+                    "active": true,
+                    "alt": "Max Media Group Female Client Testimonial 03",
+                    "title": "Max Media Group Female Client Testimonials",
+                    "linkInNewWindow": false
+                  }
+                },
+                "authorName": "Kirsten Kjellevik",
+                "authorBio": "Peacock Staging Worx",
+                "text": "<p>“They always seemed to be three steps ahead of me, with patience, diligence and excellent punctuality.”</p>"
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/max-media-group-male-client-1-160x160.jpg",
+                    "class": "img-circle",
+                    "link": "Max Media Group Male Client Testimonial 01",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "Max Media Group Male Client Testimonial 01",
+                    "title": "Max Media Group Male Client Testimonials",
+                    "linkInNewWindow": false
+                  }
+                },
+                "authorName": "Jorge Castilla",
+                "authorBio": "Gear For Guys, Inc.",
+                "text": "<p>\"Max Media Group treated me with the utmost respect - I was never left waiting with questions.\"</p>"
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/max-media-group-female-client-2-160x160.jpg",
+                    "class": "img-circle",
+                    "link": "",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "Max Media Group Female Client Testimonial 12",
+                    "title": "Max Media Group Female Client Testimonials",
+                    "linkInNewWindow": false
+                  }
+                },
+                "authorName": "Carolina Blanchard",
+                "authorBio": "Fireside Home Furnishings",
+                "text": "<p>“The flexibility and creativity of the Max Media Group team has been crucial to our continued success.”</p>"
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/max-media-group-male-client-2-160x160.jpg",
+                    "class": "img-circle",
+                    "link": "",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "Max Media Group Male Client Testimonial 03",
+                    "title": "Max Media Group Male Client Testimonials",
+                    "linkInNewWindow": false
                   }
                 },
                 "authorName": "Suffian A.",
-                "authorBio": "USER",
-                "text": "<p>“A major tturning point in the history of early philosophical science was the controversial ”</p>"
+                "authorBio": "New-You Weight Loss",
+                "text": "<p>“The entire Max Media &nbsp;team kept me informed during each stage of the process and delivered ahead of schedule.”</p>"
               },
               {
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face4.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/max-media-group-female-client-3-160x160.jpg",
                     "class": "img-circle",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "height": 160,
                     "width": 160,
-                    "active": true
+                    "active": true,
+                    "alt": "Max Media Group Female Client Testimonial 15",
+                    "title": "Max Media Group Female Client Testimonials",
+                    "linkInNewWindow": false
                   }
                 },
-                "authorName": "Alex Higgins",
-                "authorBio": "USER",
-                "text": "<p>\"A major tturning point in the history of early philosophical science was the controversial \"</p>"
+                "authorName": "Orchid Espinoza",
+                "authorBio": "Orchid Nail Spas",
+                "text": "<p>“Their social marketing campaign was highly instumental in successful launch of our brand new nail spa.”</p>"
+              },
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/max-media-group-male-client-3-160x160.jpg",
+                    "class": "img-circle",
+                    "link": "",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "Max Media Group Male Client Testimonial 02",
+                    "title": "Max Media Group Male Client Testimonials",
+                    "linkInNewWindow": false
+                  }
+                },
+                "authorName": "Mike Dowden",
+                "authorBio": "OCFL Management Group",
+                "text": "<p>“Partnering with Max Media made it possible to completely overhaul our website at an affordable price.”</p>"
               }
             ],
             "showImages": true,
@@ -372,13 +589,13 @@
             "showTitle": true,
             "showSubtitle": true,
             "showBullets": true,
-            "visibleSlides": "3",
+            "visibleSlides": "4",
             "controlBgLeft": "@PROJECT_PATH@/assets/images/left.png",
             "controlBgRight": "@PROJECT_PATH@/assets/images/right.png"
           },
           "_anchor": "testimonials1-l",
-          "title": "What our Clients say",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+          "title": "What our dear Clients say",
+          "subtitle": "The kind compliments of our clients are highly-valued by our entire team"
         },
         {
           "_styles": {},
@@ -423,12 +640,12 @@
             }
           },
           "cat1": "address",
-          "title1": "350 5th Ave, New York, NY 10118",
+          "title1": "10250 Falcon Park Boulvard<br>Orlando, Florida 32832",
           "cat2": "phone",
           "title2": "+1 321.234.7066",
           "cat3": "email",
           "title3": "service@max-media-group.com",
-          "text": "The Max Media Group team members work remote flex hours so there is always a highly-skilled expert available for you 24/7/365, for when you wake up at 3AM with that million dollar idea or very important question.",
+          "text": "All Max Media Group team members work remote flex hours so there is always a highly-skilled expert available for you 24/7/365, for when you wake up at 3AM with that million dollar idea or very important question.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-skype\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin\"></span></a>"
         },
         {
@@ -436,7 +653,10 @@
             ".mbr-section-subtitle": {
               "text-transform": "uppercase"
             },
-            ".form-control-label": {}
+            ".form-control-label": {},
+            ".mbr-section-title": {
+              "color": "#af0353"
+            }
           },
           "alias": "colorm/components",
           "_tags": [
@@ -508,7 +728,7 @@
           "_name": "form3",
           "_anchor": "form3-h",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
@@ -522,13 +742,13 @@
             "showTitle": true,
             "showText": false
           },
-          "subtitle": "Get notified about new amazing products",
+          "subtitle": "Get OUR DIGITAL MARKETING TIPS NEWSLETTER<br>We Never Spam - Only delight with Insight",
           "title": "Subscribe now!",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
           "form": {
-            "action": "mickhael.cannon@live.com",
+            "action": "service@max-media-group.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "You have successfulling subscribed to ouronline  marketing newsletter!"
             },
             "fields": {
               "message": {
@@ -556,7 +776,7 @@
           "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
           "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
           "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">send</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">send</a>"
         },
         {
           "_styles": {},
@@ -581,30 +801,30 @@
             "overlayColor": "#444444",
             "showTitles": true
           },
-          "title1": "product",
+          "title1": "Marketing",
           "text11": "Popular",
           "text12": "Trending",
           "text13": "Catalog",
           "text14": "Awesome",
           "text15": "Best",
-          "title2": "company",
+          "title2": "Web Design",
           "text21": "Press",
           "text22": "Features",
           "text23": "Mission",
           "text24": "Strategy",
           "text25": "Works",
-          "title3": "Learn more",
+          "title3": "Branding",
           "text31": "Support",
           "text32": "Developers",
           "text33": "Service",
           "text34": "Starter pack",
           "text35": "FAQ",
-          "title4": "product",
-          "text41": "Popular",
-          "text42": "Trending",
-          "text43": "Catalog",
-          "text44": "Awesome",
-          "text45": "Best",
+          "title4": "Resources",
+          "text41": "Marketing Blog",
+          "text42": "Marketing Newsletter",
+          "text43": "Services Pricing",
+          "text44": "About Max Media",
+          "text45": "Contact Max Media",
           "buttons1": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove,-mbrBtnColor\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove,-mbrBtnColor\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove,-mbrBtnColor\"><span class=\"socicon socicon-google mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove,-mbrBtnColor\"></a>",
           "logo": {
             "image": {
@@ -623,8 +843,8 @@
             }
           },
           "titled1": "Max Media Group, LLC",
-          "textd1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dolores suscipit assumenda ut, voluptatum repellendus perspiciatis minus quia adipisci similique ipsa, officia qui ducimus necessitatibus aut laudantium aliquid non, fuga maxime quibusdam maiores. Enim deleniti quod maxime quos eveniet distinctio.",
-          "buttons2": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">learn more</a>",
+          "textd1": "We believe that today, and every day, we must deliver more than we are getting paid to do. More precisely, we believe the victory of success will truly be won when daily we employ the secret of consistently providing clients with more than is expected in each task we perform on their behalf.",
+          "buttons2": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove,-mbrBtnColor\">Find Out More</a>",
           "text": "Copyright (c) 2016 Max Media Group, LLC - All Rights Reserved."
         }
       ]
@@ -726,7 +946,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DIGITAL MARKETING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WEB DESIGN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">BRANDED GRAPHICS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Marketing Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Marketing publications</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Contact</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Subscribe</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Location</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DIGITAL MARKETING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WEB DESIGN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">BRANDED GRAPHICS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESOURCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Marketing Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Marketing Publications</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Contact</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Subscribe</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Location</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "alias": "colorm/components",
@@ -770,7 +990,7 @@
           "title": "are you ready <br>to launch a new:<br>",
           "text": "<b>Let's be honest...you are here for the very same reason we exist as a company...PROFIT</b><br><b>You can be assured that all activities you employ us to perform will be PROFIT-DRIVEN</b><br><b>Max Media Group team members are highly-skilled, extremely knowledgeable &amp; honest</b><br><b>We carefully assess each clients needs and very are transparent with our service pricing</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get a FREE Website health report</a>",
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown3.png"
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown12.png"
         }
       ]
     }

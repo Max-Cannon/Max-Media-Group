@@ -789,17 +789,20 @@ blockquote {
   font-size: 20px;
   text-align: center;
 }
-#call6-f .call-card.active .mbr-section-subtitle {
-  color: #98cb00;
+#header9-r .elements-content {
+  padding-bottom: 50px;
 }
-#call6-f .title {
-  color: #4a10ff;
+#header9-r .mbr-section-subtitle {
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+  font-weight: 700;
 }
-#call6-f .mbr-section-subtitle {
-  color: #4a10ff;
+#header9-r .mbr-section-title,
+#header9-r .tab-pane {
+  color: #000;
 }
-#call6-f .call-card.active .title {
-  color: #98cb00;
+#header9-r .mbr-section-title {
+  font-size: 46px;
 }
 #testimonials1-l .card-block p {
   font-size: 15px;
@@ -809,6 +812,9 @@ blockquote {
 }
 #form1-g .form-control-label {
   color: undefined;
+}
+#form1-g .mbr-section-title {
+  color: #af0353;
 }
 #form3-h .mbr-section-subtitle {
   text-transform: uppercase;
