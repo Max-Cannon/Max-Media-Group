@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 29,
+    "uniqCompNum": 32,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/max-media-group-logo-main-250px-128x88.png",
     "noImageResize": "",
@@ -556,7 +556,8 @@
               "font-size": "15px"
             },
             ".mbr-section-title": {
-              "font-size": "48px"
+              "font-size": "48px",
+              "color": "#210772"
             },
             ".mbr-section-subtitle": {
               "font-size": "18px"
@@ -571,7 +572,7 @@
             "autoplay": true,
             "timeout": 5,
             "paddingTop": 2,
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "slides": [
               {
                 "active": false,
@@ -612,7 +613,7 @@
                 "text": "<p>“They are very straight forward about the work they do, how long it will take and very open about costs.”</p>"
               },
               {
-                "active": false,
+                "active": true,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/max-media-group-female-client-1-160x160.jpg",
@@ -707,7 +708,7 @@
                 "text": "<p>“Their social marketing campaign was highly instumental in successful launch of our brand new nail spa.”</p>"
               },
               {
-                "active": true,
+                "active": false,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/max-media-group-male-client-3-160x160.jpg",
@@ -753,23 +754,60 @@
           "subtitle": "The kind compliments of our clients are highly-valued by our entire team"
         },
         {
-          "_styles": {},
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/features/03.jpg",
-              "class": ""
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-text": {
+              "color": "#ffffff",
+              "font-size": "18px"
             }
           },
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-j",
+          "_name": "call5",
+          "_anchor": "call5-u",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/07.jpg",
+            "bgColor": "#210772",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.7,
+            "overlayColor": "#fff",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showText1": false
+          },
+          "title": "Contact Us",
+          "text": "At Max Media Group, every team member works flex hours remotely - people have a personal life, right? So, this means that if you wake up at 3AM with an important question, a million dollar idea, or simply know who lifted Jeff's tuna fish sandwich from our breakroom fridge, we will always have a highly-knowledgeable, uber-skilled specialist available 24/7/365 to respond to you. Also, just like you, we hate spam &amp; will only respond to your email with answers and solutions, not sales pitches.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://mobirise.com\">start here</a>",
+          "text1": "or <a href=\"http://mobirise.com\">Check FAQ</a>."
+        },
+        {
+          "_styles": {
+            ".form-control-label": {}
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-t",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
@@ -786,61 +824,20 @@
             "showCat2": true,
             "showCat3": true,
             "showText": true,
-            "showButtons": true,
-            "googleMap": {
-              "address": "10250 Falcon Parc Boulevard 32832",
-              "placeId": "Ei4xMDI1MCBGYWxjb24gUGFyYyBCbHZkLCBPcmxhbmRvLCBGTCAzMjgzMiwgVVNB",
-              "state": "ok",
-              "stateDetails": ""
-            }
+            "showButtons": true
           },
           "cat1": "address",
-          "title1": "10250 Falcon Park Boulvard<br>Orlando, Florida 32832",
+          "title1": "10250 Falcon Park Boulvard<div>Orlando, Florida 32832</div>",
           "cat2": "phone",
           "title2": "+1 321.234.7066",
           "cat3": "email",
           "title3": "service@max-media-group.com",
           "text": "All Max Media Group team members work remote flex hours so there is always a highly-skilled expert available for you 24/7/365, for when you wake up at 3AM with that million dollar idea or very important question.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-skype\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin\"></span></a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-subtitle": {
-              "text-transform": "uppercase"
-            },
-            ".form-control-label": {},
-            ".mbr-section-title": {
-              "color": "#af0353"
-            }
-          },
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-g",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
-            "bgColor": "#ecf0f1",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#ecf0f1",
-            "showSubtitle": true,
-            "showTitle": true,
-            "showText": true
-          },
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "title": "CONTACT FORM",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem nobis, ea amet non commodi voluptate. Aspernatur libero cumque in unde et culpa corrupti asperiores praesentium voluptatum iure dolores illo nihil saepe distinctio eaque explicabo quis ipsam sed consectetur, accusantium ex qui. Voluptas nam consectetur, dolorem sed quo qui iusto dolor!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-skype\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin\"></span></a>",
           "form": {
-            "action": "mickhael.cannon@live.com",
+            "action": "service@max-media-group.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thank you for your kind email! You are our priority and we will respond to your inquiry in a very timely fashion..."
             },
             "fields": {
               "name": {
@@ -855,26 +852,42 @@
               },
               "phone": {
                 "title": "Phone",
-                "visible": true,
+                "visible": false,
                 "customTitle": "Phone"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Question, Message or Million Dollar Idea..."
               }
             }
           },
-          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
-          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
-          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+          "formButton": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-v",
+          "_params": {
+            "googleMap": {
+              "address": "10250 Falcon Parc Blvd\nOrlando, FL 32832",
+              "placeId": "Ei4xMDI1MCBGYWxjb24gUGFyYyBCbHZkLCBPcmxhbmRvLCBGTCAzMjgzMiwgVVNB",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
         },
         {
           "_styles": {
             ".mbr-section-subtitle": {
               "text-transform": "uppercase"
             },
-            ".form-control-label": {}
+            ".form-control-label": {},
+            ".mbr-section-title": {
+              "color": "#210772",
+              "font-size": "48px"
+            }
           },
           "alias": "colorm/components",
           "_tags": [
@@ -883,8 +896,8 @@
           "_name": "form3",
           "_anchor": "form3-h",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
@@ -928,9 +941,9 @@
               }
             }
           },
-          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconName": "<img src=\"@THEME_PATH@/components/_images/form/icon-name.png\">",
           "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
-          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
+          "iconPhone": "<img src=\"@THEME_PATH@/components/_images/form/icon-phone.png\">",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">send</a>"
         },
         {
@@ -1145,7 +1158,7 @@
           "title": "are you ready <br>to launch a new:<br>",
           "text": "<b>Let's be honest...you are here for the very same reason we exist as a company...PROFIT</b><br><b>You can be assured that all activities you employ us to perform will be PROFIT-DRIVEN</b><br><b>Max Media Group team members are highly-skilled, extremely knowledgeable &amp; honest</b><br><b>We carefully assess each clients needs and very are transparent with our service pricing</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get a FREE Website health report</a>",
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown2.png"
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown6.png"
         }
       ]
     }

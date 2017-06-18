@@ -838,24 +838,31 @@ blockquote {
 }
 #testimonials1-l .mbr-section-title {
   font-size: 48px;
+  color: #210772;
 }
 #testimonials1-l .mbr-section-subtitle {
   font-size: 18px;
 }
-#form1-g .mbr-section-subtitle {
-  text-transform: uppercase;
+#call5-u .mbr-section-title {
+  font-size: 48px;
+  color: #ffffff;
 }
-#form1-g .form-control-label {
+#call5-u .mbr-section-text {
+  color: #ffffff;
+  font-size: 18px;
+}
+#contacts3-t .form-control-label {
   color: undefined;
-}
-#form1-g .mbr-section-title {
-  color: #af0353;
 }
 #form3-h .mbr-section-subtitle {
   text-transform: uppercase;
 }
 #form3-h .form-control-label {
   color: undefined;
+}
+#form3-h .mbr-section-title {
+  color: #210772;
+  font-size: 48px;
 }
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
