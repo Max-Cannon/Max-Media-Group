@@ -789,6 +789,30 @@ blockquote {
   font-size: 20px;
   text-align: center;
 }
+#call6-f .call-card.active .mbr-section-subtitle {
+  color: #98cb00;
+}
+#call6-f .title {
+  color: #4a10ff;
+}
+#call6-f .mbr-section-subtitle {
+  color: #4a10ff;
+}
+#call6-f .call-card.active .title {
+  color: #98cb00;
+}
+#form1-g .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#form1-g .form-control-label {
+  color: undefined;
+}
+#form3-h .mbr-section-subtitle {
+  text-transform: uppercase;
+}
+#form3-h .form-control-label {
+  color: undefined;
+}
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
 }
